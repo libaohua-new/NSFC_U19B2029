@@ -27,7 +27,7 @@ NSFC_U19B2029成果展示
 
 **亮点成果5：基于数字孪生的集群虚实结合推演系统**
     针对无人集群虚实融合验证需求，完成了数字式群体智能与开放创新仿真平台框架设计，构建了仿真推演系统与智能训练平台，研发了开放式算法集成环境，实现了想定方案的推演和智能算法的集成验证。
-    ![image](https://github.com/libaohua-new/NSFC_U19B2029/assets/59918892/dee5fe1e-a52f-4fb2-9207-81fa2fdd8ae3)
+    ![image](https://github.com/libaohua-new/NSFC_U19B2029/assets/59918892/bc6bf47e-ab04-4a25-b396-253827368608)
     ![5](https://github.com/libaohua-new/NSFC_U19B2029/assets/59918892/f36a66b3-2af4-4356-92e8-6af714d855ad)
 
     
