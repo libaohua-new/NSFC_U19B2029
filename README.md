@@ -13,12 +13,12 @@ NSFC_U19B2029成果展示
 **亮点成果2：无人机集群复杂环境下密集编队飞行**
     自适应领航-跟随编队控制技术和基于B样条的航路优化方法已成功应用于无人机集群复杂环境下密集编队飞行试验，完成了16架小型固定翼无人机的密集编队飞行，实现了5种队形的密集编队、队形变换和重构飞行演示验证测试。
     ![image](https://github.com/libaohua-new/NSFC_U19B2029/assets/59918892/72d2c2f0-f4c7-4ff5-b2dd-697d7ecd230d)
-    ![image](https://github.com/libaohua-new/NSFC_U19B2029/assets/59918892/da37fdfa-e417-4248-abbe-cdab39cfa776)
+    ![2](https://github.com/libaohua-new/NSFC_U19B2029/assets/59918892/a1a052e9-fea3-46b3-95b4-296fa00f7898)
 
 **亮点成果3：基于分层结构的分布式协调控制算法**
     针对多无人机系统编队控制问题，研究期望编队构型的维持控制，采取基于分层结构的分布式协调控制算法，实现了期望的编队构型维持控制目标，其研究成果发表于IEEE/ASME Transactions on Mechatronics。
     ![image](https://github.com/libaohua-new/NSFC_U19B2029/assets/59918892/7a03df8c-57eb-466d-8cb9-cca9310f8d7d)
-    ![image](https://github.com/libaohua-new/NSFC_U19B2029/assets/59918892/804759bd-3454-4e56-88d5-c8a0d1edc81f)
+    ![3](https://github.com/libaohua-new/NSFC_U19B2029/assets/59918892/38888b6b-052a-48e7-b087-a30136e18b38)
 
 **亮点成果4：基于平行控制理论的无人集群平行系统**
     基于平行控制理论的一体化仿真方法，该项成果已成功应用于无人艇集群平行系统的构建，为无人集群的智能控制算法提供了可靠的检测工具。
@@ -28,7 +28,9 @@ NSFC_U19B2029成果展示
 **亮点成果5：基于数字孪生的集群虚实结合推演系统**
     针对无人集群虚实融合验证需求，完成了数字式群体智能与开放创新仿真平台框架设计，构建了仿真推演系统与智能训练平台，研发了开放式算法集成环境，实现了想定方案的推演和智能算法的集成验证。
     ![image](https://github.com/libaohua-new/NSFC_U19B2029/assets/59918892/dee5fe1e-a52f-4fb2-9207-81fa2fdd8ae3)
-    ![image](https://github.com/libaohua-new/NSFC_U19B2029/assets/59918892/1efb5d2e-6d06-4cde-97a8-8a01605027c5)
+    ![5](https://github.com/libaohua-new/NSFC_U19B2029/assets/59918892/f36a66b3-2af4-4356-92e8-6af714d855ad)
+
+    
 
 
 
